@@ -1,88 +1,84 @@
-# Charlie Munger Wisdom 🧠
+# Charlie Munger Wisdom: Multidisciplinary Thinking for Better Decisions
 
-A comprehensive collection of Charlie Munger's most powerful ideas — mental models, investment principles, and life philosophy from Warren Buffett's legendary partner.
+A comprehensive guide to Charlie Munger's mental models, investment philosophy, and multidisciplinary approach to thinking. Munger, Warren Buffett's long-time partner at Berkshire Hathaway, is considered one of the greatest minds in business and investing.
 
-## Who Was Charlie Munger?
+> Discover the thinking frameworks of legendary investors at [KeepRule - Investment Masters](https://keeprule.com/en/masters)
 
-Charlie Munger (1924-2023) was Vice Chairman of Berkshire Hathaway and Warren Buffett's partner for over 60 years. While Buffett is famous for stock picking, Munger is revered for his multidisciplinary thinking approach — the "latticework of mental models" that made him one of the most admired thinkers in investing and beyond.
+## Who Is Charlie Munger?
 
-## Munger's Core Mental Models
+Charles Thomas Munger (1924–2023) served as Vice Chairman of Berkshire Hathaway for over four decades. A lawyer turned investor, Munger was instrumental in shifting Buffett's investment approach from buying cheap, mediocre businesses (the "cigar butt" approach) to purchasing high-quality businesses at reasonable prices. His influence on modern value investing cannot be overstated.
 
-### 1. Inversion
-**"Invert, always invert."** — Instead of asking "How do I succeed?", ask "How would I certainly fail?" Then avoid those things.
+Munger was a polymath who drew insights from psychology, physics, biology, history, mathematics, and engineering to make better decisions. He believed that real-world problems rarely fit neatly into a single academic discipline, and that the best solutions come from combining multiple mental models.
 
-**Applications**:
-- Investment: What would destroy this business? If the answers are plausible, don't invest
-- Career: What behaviors guarantee career failure? Dishonesty, unreliability, arrogance — avoid them
-- Health: What habits definitely damage health? Eliminate those first
+## The Latticework of Mental Models
 
-### 2. Circle of Competence
-**"Knowing what you don't know is more useful than being brilliant."**
+Munger's signature contribution to investment thinking is the concept of building a "latticework of mental models" — a collection of frameworks from various disciplines that can be applied to analyze problems from multiple angles.
 
-Stay within areas where you have genuine expertise. The edges of your circle are more dangerous than being completely outside it — partial knowledge creates overconfidence.
+### Key Mental Models
 
-### 3. Second-Order Thinking
-Most people think only about the immediate consequences of a decision (first-order). Munger insists on thinking about the consequences of the consequences.
+**1. Inversion**
+Instead of asking "How do I succeed?", Munger advises asking "What would guarantee failure?" and then avoiding those things. This technique, borrowed from mathematician Carl Jacobi, reveals blind spots that forward thinking misses.
 
-**Example**: Rent control (first-order: lower rents) → reduces housing investment → housing shortage → higher actual costs (second-order)
+*"Invert, always invert. Turn a situation or problem upside down. Look at it backward."*
 
-### 4. The Lollapalooza Effect
-When multiple psychological tendencies combine and reinforce each other, the effect is dramatically larger than the sum of parts. Munger identified this as the most powerful force in human misjudgment.
+**2. Circle of Competence**
+Know what you know, and more importantly, know what you do not know. Operating within your circle of competence reduces errors and increases the probability of success.
 
-**Example**: Enron combined incentive-caused bias + social proof + authority influence + commitment/consistency = catastrophic fraud
+**3. Second-Order Thinking**
+Consider not just the immediate consequences of an action but also the consequences of those consequences. Most people stop at first-order effects, creating opportunities for deeper thinkers.
 
-### 5. Opportunity Cost
-Every choice has a cost — the best alternative you didn't choose. Munger applies this rigorously:
-- "The first rule of compounding: Never interrupt it unnecessarily"
-- Before any investment, ask: "Is this better than my next best alternative?"
+**4. Incentive-Caused Bias**
+People respond to incentives, often unconsciously. Understanding incentive structures helps predict behavior and avoid being manipulated.
 
-## Munger's 25 Cognitive Biases
+*"Show me the incentive and I will show you the outcome."*
 
-From his famous "Psychology of Human Misjudgment" talk:
+**5. Margin of Safety**
+Always build in a buffer for error. Whether in engineering, investing, or life decisions, never operate at the edge of tolerance.
 
-| # | Bias | Key Insight |
-|---|------|------------|
-| 1 | Reward and Punishment | Incentives drive behavior more than anything else |
-| 2 | Liking/Loving | We distort reality to favor people and things we like |
-| 3 | Disliking/Hating | We distort reality to disfavor people and things we dislike |
-| 4 | Doubt-Avoidance | We rush to decisions to eliminate uncertainty |
-| 5 | Inconsistency-Avoidance | We resist changing our minds even with new evidence |
-| 6 | Curiosity | One of the few innate tendencies that helps us |
-| 7 | Kantian Fairness | We need to feel treated fairly — real or perceived |
-| 8 | Envy/Jealousy | "It's not greed that drives the world, but envy" |
-| 9 | Reciprocation | We feel compelled to repay favors — and slights |
-| 10 | Influence-from-Mere-Association | We judge things by their associations, not their merits |
+> Apply these mental models to real investment decisions at [KeepRule - Investment Principles](https://keeprule.com/en/principles)
 
-### Munger's Rules for Life
+## Munger's Psychology of Human Misjudgment
 
-1. **"Take a simple idea and take it seriously."**
-2. **"Spend each day trying to be a little wiser than you were when you woke up."**
-3. **"The big money is not in the buying and the selling, but in the waiting."**
-4. **"There is no better teacher than history in determining the future."**
-5. **"Mimicking the herd invites regression to the mean."**
+Munger identified 25 standard causes of human misjudgment, which he detailed in his famous talk at Harvard. These cognitive biases include:
 
-## Munger's Investment Principles
+- **Reward and punishment super-response tendency** — People do what they are incentivized to do
+- **Liking/Loving tendency** — We distort facts to favor people and things we like
+- **Doubt-avoidance tendency** — We rush to decisions to remove doubt
+- **Inconsistency-avoidance tendency** — We resist changing our minds even with new evidence
+- **Social proof tendency** — We follow the crowd, especially under uncertainty
+- **Contrast-misreaction tendency** — We judge things relative to nearby comparisons rather than absolute values
+- **Deprival super-reaction tendency** — We overweight potential losses versus equivalent gains
 
-### The Munger Checklist
-Before any investment:
-- [ ] Is this within my circle of competence?
-- [ ] Does the business have a durable competitive advantage?
-- [ ] Is management honest and competent?
-- [ ] Is the price reasonable relative to intrinsic value?
-- [ ] What's the worst that could happen?
-- [ ] Would I hold this for 20 years?
+Understanding these biases is essential for any investor seeking to make rational decisions in irrational markets.
 
-### Key Investment Quotes
-> "All I want to know is where I'm going to die, so I'll never go there."
+## Notable Quotes
 
-> "A great business at a fair price is superior to a fair business at a great price."
+- *"The big money is not in the buying and selling, but in the waiting."*
+- *"Spend each day trying to be a little wiser than you were when you woke up."*
+- *"A great business at a fair price is superior to a fair business at a great price."*
+- *"Knowing what you don't know is more useful than being brilliant."*
+- *"The best thing a human being can do is to help another human being know more."*
 
-> "The desire to get rich fast is pretty dangerous."
+## How to Apply Munger's Thinking
 
-## Explore Munger's Complete Framework
+1. **Build your mental model toolkit** — Study at least 100 important models from major disciplines including psychology, economics, physics, biology, and history.
+2. **Use checklists** — Munger was a strong advocate of checklists to avoid common errors. Create your own investment checklist based on recurring mistakes.
+3. **Read broadly** — Munger famously described himself as a "book with legs." Read outside your field to develop cross-disciplinary insights.
+4. **Avoid stupidity** — It is easier to avoid stupidity than to seek brilliance. Eliminate obvious errors first.
+5. **Practice patience** — Great opportunities are rare. Build the discipline to wait for them.
 
-Study the full wisdom of Charlie Munger alongside Buffett, Dalio, and other master thinkers at **[KeepRule](https://keeprule.com/en/masters)** — where decades of investment wisdom are organized into actionable decision-making frameworks.
+> Explore practical scenarios that test your decision-making frameworks at [KeepRule - Scenarios](https://keeprule.com/en/scenarios)
+
+## Recommended Reading
+
+- *Poor Charlie's Almanack* edited by Peter Kaufman
+- *Charlie Munger: The Complete Investor* by Tren Griffin
+- *Seeking Wisdom: From Darwin to Munger* by Peter Bevelin
+
+## Resources
+
+For more on Charlie Munger and other great thinkers, visit [KeepRule Blog](https://keeprule.com/en/blog) for articles on mental models, cognitive biases, and investment philosophy.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License. Content compiled from public speeches, interviews, and published works.
